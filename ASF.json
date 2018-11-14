@@ -1,0 +1,31 @@
+{
+  "AutoRestart": true,
+  "CommandPrefix": "!",
+  "ConfirmationsLimiterDelay": 10,
+  "ConnectionTimeout": 60,
+  "CurrentCulture": null,
+  "Debug": false,
+  "FarmingDelay": 15,
+  "GiftsLimiterDelay": 1,
+  "Headless": false,
+  "IdleFarmingPeriod": 8,
+  "InventoryLimiterDelay": 3,
+  "IPC": true,
+  "IPCPassword": "umbrellabolasenna",
+  "IPCPrefixes": [
+    "http://127.0.0.1:1242/"
+  ],
+  "LoginLimiterDelay": 10,
+  "MaxFarmingTime": 10,
+  "MaxTradeHoldDuration": 15,
+  "OptimizationMode": 0,
+  "Statistics": false,
+  "SteamOwnerID": 76561198124276902,
+  "SteamProtocols": 4,
+  "UpdateChannel": 1,
+  "UpdatePeriod": 0,
+  "WebLimiterDelay": 200,
+  "WebProxy": null,
+  "WebProxyPassword": null,
+  "WebProxyUsername": null
+}
